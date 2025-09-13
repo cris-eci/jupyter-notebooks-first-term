@@ -15,6 +15,3 @@ This repository contains Jupyter notebooks for introductory exercises and soluti
 
 ## Author
 Cristian Santiago Pedraza Rodriguez
-
----
-Feel free to use and modify these notebooks for your learning and teaching needs.
